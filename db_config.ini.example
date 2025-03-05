@@ -1,0 +1,16 @@
+[DATABASE]
+type = type
+host = host
+port = port
+database = database
+user = user
+password = password
+table = table
+phone_column = phone_column
+update_column = update_column
+
+[EXCEL]
+phone_column_index = phone_column_index
+start_row = start_row
+has_header = has_header
+
